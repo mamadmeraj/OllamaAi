@@ -14,7 +14,7 @@ A powerful Python client to interact with the **Ollama AI API**, allowing you to
 
 1️⃣ **Clone the Repository:**
 ```sh
-git clone https://github.com/yourusername/OllamaAi.git
+git clone https://github.com/mamadmeraj/OllamaAi.git
 cd OllamaAi
 ```
 
